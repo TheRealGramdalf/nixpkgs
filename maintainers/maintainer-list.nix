@@ -20163,6 +20163,12 @@
     githubId = 57180880;
     name = "Ansh Tyagi";
   };
+  therealgramdalf = {
+    email = "gramdalftech@gmail.com";
+    github = "TheRealGramdalf";
+    githubId = 79593869;
+    name = "Gramdalf";
+  };
   therealr5 = {
     email = "rouven@rfive.de";
     github = "therealr5";
